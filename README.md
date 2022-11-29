@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RosieMoonYin
 - 👀 I’m interested in 
-- 🌱 I’m currently learning HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on ... Unconscious Collective ~ Dream Database
 - 📫 How to reach me rosie.victoria.burnett@gmail.com
 
 <!---
