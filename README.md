@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RosieMoonYin
-- 👀 I’m interested in 
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in using REACT.js for creating apps
+- 🌱 I’m currently learning Vanilla JavaScript and REACT Native
 - 💞️ I’m looking to collaborate on ... Unconscious Collective ~ Dream Database
 - 📫 How to reach me rosie.victoria.burnett@gmail.com
 
