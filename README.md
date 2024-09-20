@@ -4,6 +4,8 @@
 
 I’m a passionate full-stack developer with a strong focus on creating clean, efficient, and user-centric web applications. With experience in both front-end and back-end development, I bring together creative design, technical knowledge, and business understanding to build solutions that not only work but also make a difference.
 
+My main interests are building and deploying cloud based architecture, improving the CI/CD pipeline.
+
 ---
 
 ### 🛠️ Technical Skills
