@@ -10,7 +10,7 @@ My main interests are building and deploying cloud based architecture, improving
 
 ### 🛠️ Technical Skills
 
-- **Languages:** C#, JavaScript, TypeScript, SQL
+- **Languages:** C#, JavaScript, TypeScript
 - **Frameworks:** .NET (C#), Entity Framework Core, React, Node.js
 - **Tools:** Git, GitHub, Vite, Tailwind CSS, HTML, CSS (Flexbox, Grid)
 - **Workflows:** Agile, Mob Programming, Issue Tracking, Branching & Merging in GitHub
